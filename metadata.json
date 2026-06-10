@@ -1,0 +1,6 @@
+{
+  "name": "For You",
+  "description": "A magical interactive memory tree, programmatic synthesised music, digital written letter and 3D rose bouquet experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
